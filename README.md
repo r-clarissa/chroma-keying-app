@@ -23,7 +23,7 @@ To get a local copy up and running, kindly follow these steps.
 
 1. Clone the repo
 ```
-git clone https://github.com/r-clarissa/chroma-keying-app.git
+git clone https://github.com/r-clarissa/video-clip-editor.git
 ```
 2. Find and change your terminal path where the cloned folder on your local directory is found.
 3. On your terminal, run the `main.py`.
