@@ -5,8 +5,6 @@ This project is a video editor application which makes use of chroma keying tech
 - visual-effects and post-production technique for compositing these videos
 - allows user manipulation on what time frame should the input videos be rendered
 
-![1](https://user-images.githubusercontent.com/70369183/215723408-9d38e12f-6906-4d72-91ea-e13853603062.png)
-
 ### Specifications
 * sequential reading and rendering of input files based on its file name's time frame
 * detects, removes, and replaces the pixels of the green screen with the background frame
